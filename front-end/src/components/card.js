@@ -4,10 +4,11 @@ import './card.css';
 export default function card (){
     return (
         <div className="container">
+            
             <div className="container-content">
                 <p id="texto1">Atendimento pelo Whatsapp</p> <br/>
                 <p id="texto2">Segunda a Sexta, das 7h as 13h.</p>
-                <img alt="" src="whatsapp.png"></img>
+               
                 
                 <div className="content1">
                     <a className = "link" href="https://api.whatsapp.com/send?1=pt_BR&phone=5579991912162"  style={{color: 707070}} >
