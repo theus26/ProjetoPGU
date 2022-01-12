@@ -3,20 +3,20 @@
     padding: 0;
 }
 
-.container1{
+.container-footer{
     display: flex;
     position: absolute;
     
 }
 .footer{
     position: relative;
-    margin-top: 590px;
+    margin-top: 565px;
     margin-left: 520px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
     color: #707070;
     font-weight: bolder;
 }
-p{
+.footer-footer{
     text-align: center;
 }
