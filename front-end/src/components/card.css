@@ -7,7 +7,7 @@
     @media (max-width: 297px)
 .container {
     display: flex;
-    margin:auto;
+    
 }
 }
 .container{
@@ -76,4 +76,5 @@ a{
 }
 a:hover{
     color: blue;
+
 }
